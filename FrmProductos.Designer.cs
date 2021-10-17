@@ -109,6 +109,7 @@
             // 
             // cmbmarca
             // 
+            this.cmbmarca.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbmarca.FormattingEnabled = true;
             this.cmbmarca.Location = new System.Drawing.Point(106, 85);
             this.cmbmarca.Name = "cmbmarca";
